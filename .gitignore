@@ -1,0 +1,7 @@
+.pytest_cache/
+__pycache__/
+env/
+install.sh
+test.sh
+test_card.py
+my_test.py
